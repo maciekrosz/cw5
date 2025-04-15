@@ -6,7 +6,7 @@ public class MediaBiblioteczne {
     public MediaBiblioteczne(String tytul, int rokWydania) {
         this.tytul = tytul;
         this.rokWydania = rokWydania;
-        this.dostepny = true; // nowe medium jest dostępne
+        this.dostepny = true;
     }
 
 
